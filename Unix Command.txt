@@ -1,0 +1,28 @@
+Edu tocken
+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
+
+Sudo su -
+--to switch user as root like admin
+
+mkdir "folder name
+--cretae folder
+
+cd folder name
+--to enter into folder
+
+to check log 
+
+Git log --oneline
+
+
+--Check Status
+git status
+
+- check working directory
+pwd
+
+-- to check about update 
+git show
+
+--to change branch
+git branch -M main
